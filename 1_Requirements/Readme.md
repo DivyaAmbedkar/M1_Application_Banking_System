@@ -6,4 +6,10 @@ My motto is to develop a software application in c programming language for mana
 
 # Research
 
+![Description](Link to Pic) -- Content
+
+# Cost and Features and Timeline
+
+![Description](Link to Pic) -- Content
+
 
