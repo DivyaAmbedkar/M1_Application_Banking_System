@@ -59,6 +59,18 @@ This mini project is to develop a software program for managing the entire bank 
 ![SWOT-analysis-of-online-banking](https://user-images.githubusercontent.com/88921546/142402206-a2e79bfc-6409-4d0a-909f-6120c8c394ae.jpg)
 
 
+## 4W's and 1'H
+
+
+
+## Detail Requirements
+
+### High Level Requirements:
+
+
+### Low Level Requirements:
+
+
 
 
 
