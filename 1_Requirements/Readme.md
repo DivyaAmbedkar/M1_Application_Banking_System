@@ -43,7 +43,7 @@ Transactions Access: This feature emphasizes that, once any transaction request 
 
 ## Defining Our System
 
-
+This mini project is to develop a software program for managing the entire bank process related to administration accounts,  customer accounts and to keep each and every track about their property and their various transaction processes efficiently. The record of the customer can be added, updated, searched and deleted. The source code for this project is build in using c programming language and it is short and has been presented in a very understandable manner.
 
 ## SWOT Analysis
 
