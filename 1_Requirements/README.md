@@ -53,10 +53,17 @@ This mini project is to develop a software program for managing the entire bank 
 
 ## Detail Requirements
 
-### High Level Requirements:
+### High Level Requirements
+| ID   |      Description     |  Status |
+|----------|:-------------:|------:|
+| HLR_1 |   |  |
 
 
-### Low Level Requirements:
+### Low Level Requirements
+| ID   |      Description     |  Status |
+|----------|:-------------:|------:|
+| LLR_1 |   |   |
+
 
 
 
