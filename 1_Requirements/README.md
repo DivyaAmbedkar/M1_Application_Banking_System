@@ -1,16 +1,15 @@
 # Requirements
 
-# Introduction
+## Introduction
 
 Nowadays, banking system has been more accessible than ever to perform essential duties e.g online transfer, change account information without having the need to visit nearby bank and perform all of them through online. While the online access to banking functionality for users has given great flexibility but it requires sufficient security provided by the banking company to help protect from unauthorized access to user's accounts and also help the user to perform his activity securely maintaining the privacy. The objective of this project is to design such banking application securely according to design guidelines set in the course and as well perform security testing to expose the vulnerabilities. In following sections, users of the system and their functionality is presented. Application functionality and security aspect of the system are discussed in later sections.
 
-# Objective 
+## Objective 
 
 The main objective of this project to perform a banking system application using c programming language used to deposit and debit the amount from your account and we can also check the balance only for existing user and the new user can create an bank account by signing up.
 
 
-
-# Feature
+## Feature
 
 This project performs the following options as feature for banking system:
 
@@ -19,9 +18,9 @@ This project performs the following options as feature for banking system:
 3. Check Account Balance
 4. Transfer Funds
 
-# SWOT Analysis
+## SWOT Analysis
 
-## Strength
+### Strength
 
 1. Acess at any time.
 2. Saves a lot of time.
@@ -29,18 +28,18 @@ This project performs the following options as feature for banking system:
 4. Convenience for customer.
 5. Provides better convenience and greater efficiency.
 
-## Weakness
+### Weakness
 
 1. Security issues in digital mode.
 2. Sensitivity to the global economy.
 3. Can only target specific customers.
 
-## Opportunities
+### Opportunities
 
 1. Raising awareness of the benefits of banking system among people.
 2. Developing a modern it base to avoid system failures and provide an efficient and secure platform for transactions.
 
-## Threats
+### Threats
 
 1. Any security related issues or news may pose a threat.
 2. Tough competition.
@@ -49,28 +48,28 @@ This project performs the following options as feature for banking system:
 
 
 
-# 4W's and 1'H
+## 4W's and 1'H
 
-## Why:
-
-
-
-## Where:
+### Why:
 
 
 
-## Who:
+### Where:
 
 
 
-## When:
+### Who:
 
 
 
-## How:
+### When:
 
 
-# Detail Requirements
+
+### How:
+
+
+## Detail Requirements
 
 ### High Level Requirements
 | ID   |      Description     |  Status |
