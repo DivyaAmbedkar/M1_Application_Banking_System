@@ -29,7 +29,5 @@ void afterlogin(void);
 void logout(void);
 
 
-
-
 #define MACRO -99
 #endif
