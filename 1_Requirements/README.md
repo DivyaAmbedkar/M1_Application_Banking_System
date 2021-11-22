@@ -14,11 +14,10 @@ The main objective of this project to perform a banking system application using
 
 This project performs the following options as feature for banking system:
 
-1. Create a new account
-2. Account Login
-3. Acccount Info
-4. Check Balance
-5. Transfer Money
+1. Creating a new account
+2. Check Acccount Info
+3. Check Account Balance
+4. Transfer Funds
 
 # SWOT Analysis
 
@@ -32,28 +31,62 @@ This project performs the following options as feature for banking system:
 
 ## Weakness
 
-1. Security issues in digital mode;
+1. Security issues in digital mode.
+2. Sensitivity to the global economy.
+3. Can only target specific customers.
+
+## Opportunities
+
+1. Raising awareness of the benefits of banking system among people.
+2. Developing a modern it base to avoid system failures and provide an efficient and secure platform for transactions.
+
+## Threats
+
+1. Any security related issues or news may pose a threat.
+2. Tough competition.
+3. Lack of effective rules.
+4. Lack of customer loyalty.
 
 
 
-## 4W's and 1'H
+# 4W's and 1'H
+
+## Why:
 
 
 
+## Where:
 
 
-## Detail Requirements
+
+## Who:
+
+
+
+## When:
+
+
+
+## How:
+
+
+# Detail Requirements
 
 ### High Level Requirements
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
-| HLR_1 |   |  |
+| HLR_1 | The user can create a new account | Implemented |
+| HLR_2 | The user can check the account info | Implemented |
+| HLR_3 | The user can check the account balance | Implemented |
+| HLR_4 | The user can transfer the funds | Implemented |
 
 
 ### Low Level Requirements
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
-| LLR_1 |   |   |
+| LLR_1 | List of options | Implemented |
+| LLR_2 | Getting user input | Implemented |
+| LLR_3 | Exiting the program | Implemented |
 
 
 
