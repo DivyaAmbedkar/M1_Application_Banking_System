@@ -47,26 +47,29 @@ This project performs the following options as feature for banking system:
 4. Lack of customer loyalty.
 
 
-
 ## 4W's and 1'H
 
 ### Why:
 
-
+1. The interface is user-friendly and simple to navigate. 
+2. Customers can perform most banking operations without or with minimal help.
 
 ### Where:
 
-
+1. 
 
 ### Who:
 
+1. It can used by any person.
 
 
 ### When:
 
-
+1. Can be accessed it form anywhere.
 
 ### How:
+
+1. Entering the credentials
 
 
 ## Detail Requirements
