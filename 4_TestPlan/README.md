@@ -1,4 +1,4 @@
-# TestPlan
+# Test Plan
 
 ## High Level Test Plan
 | ID   |      Description     |  Expected o/p |
