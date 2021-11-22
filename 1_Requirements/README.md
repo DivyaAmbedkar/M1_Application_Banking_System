@@ -66,11 +66,11 @@ This project performs the following options as feature for banking system:
 ### When:
 
 1. It can be used at anytime depend upon the person's perferences
-2. 
+
 
 ### How:
 
-1. Entering the credentials
+1. Entering the credentials you can get access to the banking system.
 
 
 ## Detail Requirements
