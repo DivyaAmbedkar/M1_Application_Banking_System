@@ -3,10 +3,10 @@
 ## High Level Test Plan
 | ID   |      Description     |  Expected o/p |
 |----------|:-------------:|------:|
-| HLTP_1 |   | Implemented  |
+| HLTP_1 |   |   |
 
 
 ## Low Level Test Plan
 | ID   |      Description     |  Expected o/p |
 |----------|:-------------:|------:|
-| LLTP_1 |  | 1  |
+| LLTP_1 |  |   |
