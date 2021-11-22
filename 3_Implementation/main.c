@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author your name (you@domain.com)
+ * @author Kavin Vignes
  * @brief 
  * @version 0.1
  * @date 2021-11-22
@@ -9,6 +9,8 @@
  * 
  */
 
+#include "feature.h"
+#include "stdio.h"
 
 /**
  * @brief (Creating a structure to store data of the user)
