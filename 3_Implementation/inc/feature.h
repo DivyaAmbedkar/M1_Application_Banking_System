@@ -12,6 +12,9 @@
 #ifndef FEATURE_H_
 #define FEATURE_H_
 
+#include "stdio.h"
+#include "stdlib.h"
+
 /**
  * @brief (Declaring all the functions)
  * 
@@ -28,6 +31,4 @@ void accountcreated(void);
 void afterlogin(void);
 void logout(void);
 
-
-#define MACRO -99
 #endif

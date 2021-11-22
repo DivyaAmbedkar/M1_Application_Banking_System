@@ -10,7 +10,6 @@
  */
 
 #include "feature.h"
-#include "stdio.h"
 
 /**
  * @brief (Creating a structure to store data of the user)
