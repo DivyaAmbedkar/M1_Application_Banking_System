@@ -56,7 +56,7 @@ This project performs the following options as feature for banking system:
 
 ### Where:
 
-1. 
+1. This banking system can be accessed from anywhere. 
 
 ### Who:
 
@@ -65,7 +65,8 @@ This project performs the following options as feature for banking system:
 
 ### When:
 
-1. Can be accessed it form anywhere.
+1. It can be used at anytime depend upon the person's perferences
+2. 
 
 ### How:
 
