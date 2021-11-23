@@ -1,7 +1,7 @@
 # Test Plan
 
 ## High Level Test Plan
-| ID   |      Description     | Exp I/P | Exp O/P | Actual Out | Type of Test |
+| Test ID   |      Description     | Exp I/P | Exp O/P | Actual Out | Type of Test |
 |----------|:-------------:|------:|---------:|--------:|---------:|
 | H_01 | Create a New Bank Account |      |       |          |
 | H_01 | Account Login |          |       |       |       |
@@ -9,7 +9,7 @@
 
 
 ## Low Level Test Plan
-| ID   |      Description     | Exp I/P | Exp O/P | Actual Out | Type of Test |
+| Test ID   |      Description     | Exp I/P | Exp O/P | Actual Out | Type of Test |
 |----------|:-------------:|------:|---------:|--------:|---------:|
 | L_01 | Create a New Bank Account |      |       |          |
 | L_02| Account Login |          |       |       |       |
