@@ -10,46 +10,14 @@
  */
 
 #include "feature.h"
-
-/**
- * @brief (Creating a structure to store data of the user)
- * 
- */
-
-struct pass {
-	char username[50];
-	int date, month, year;
-	char pnumber[15];
-	char adharnum[20];
-	char fname[50];
-	char lname[50];
-	char fathname[50];
-	char mothname[50];
-	char address[100];
-	char typeaccount[50];
-};
-
-/**
- * @brief (Structure to keep track of amount transfer)
- * 
- */
-
-struct money {
-	char usernameto[50];
-	char userpersonfrom[50];
-	long int money1;
-};
-
-struct userpass {
-	char password[50];
-};
+#include "stdio.h"
+#include "stdlib.h"
 
 /**
  * @brief (Driver Code)
  * 
  * @return int 
  */
-
 int main()
 {
 	int i, a, b, choice;
@@ -73,7 +41,7 @@ int main()
 		system("cls");
 		printf("\n\n UESERNAME 50 CHARACTERS MAX!!");
 		printf("\n\n PASSWORD 50 CHARACTERS MAX!!");
-		account();
+		void account();
 		break;
 
 	case 2:
