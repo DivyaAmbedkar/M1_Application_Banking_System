@@ -56,11 +56,12 @@ This project performs the following options as feature for banking system:
 
 ### Where:
 
-1. This banking system can be accessed from anywhere. 
+1. It can be used by a person from anywhere. 
 
 ### Who:
 
-1. It can used by any person.
+1. An individual person only can get access to it.
+2. Customers who have an account can have benefits of transfering funds and checking their balance.
 
 
 ### When:
