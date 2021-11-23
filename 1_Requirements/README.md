@@ -13,7 +13,7 @@ The main objective of this project to perform a banking system application using
 
 This project performs the following options as feature for banking system:
 
-1. Creating a new account
+1. Create a new account
 2. Check Acccount Info
 3. Check Account Balance
 4. Transfer Funds
