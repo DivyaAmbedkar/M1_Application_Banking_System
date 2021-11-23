@@ -10,6 +10,10 @@
  */
 
 #include "feature.h"
+#include "conio.h"
+#include "stdio.h"
+#include "stdlib.h"
+#include "string.h"
 
 /**
  * @brief (Function to create accounts of users)
@@ -23,14 +27,12 @@ void account(void)
 	FILE *fp, *fu;
 	struct pass u1;
 	struct userpass p1;
-
 	struct userpass u2;
 
 	/**
 	 * @brief (Opening file to write data of a user)
 	 * 
 	 */
-
 	fp = fopen("username.txt", "ab");
 
 	system("cls");
@@ -77,18 +79,20 @@ void account(void)
      * @brief (Taking password in the form of stars)
      * 
      */
-    for (i = 0; i < 50; i++) {
-		ch = getch();
-		if (ch != 13) {
-			password[i] = ch;
-			ch = '*';
-			printf("%c", ch);
+	int getch(void)
+	{
+		for (i = 0; i < 50; i++) {
+			ch = getch();
+			if (ch != 13) {
+				password[i] = ch;
+				ch = '*';
+				printf("%c", ch);
+			}
+			else
+				break;
 		}
-		else
-			break;
 	}
-	fwrite(&u1, sizeof(u1),
-		1, fp);
+	fwrite(&u1, sizeof(u1), 1, fp);
 	fclose(fp);
 	accountcreated();
 }
@@ -150,8 +154,7 @@ void login(void)
 		else
 			break;
 	}
-	while (fread(&u1, sizeof(u1),
-				1, fp)) {
+	while (fread(&u1, sizeof(u1), 1, fp)) {
 		if (strcmp(username,
 				u1.username)
 			== 0) {
@@ -205,8 +208,7 @@ void display(char username1[])
 		if (strcmp(username1,
 				u1.username)
 			== 0) {
-			printf("\n\nWELCOME ---------- , %s %s",
-				u1.fname, u1.lname);
+			printf("\n\nWELCOME ---------- , %s %s", u1.fname, u1.lname);
 			printf("\n\n..................................................");
 			printf("\n\n=============== YOUR ACCOUNT INFO ================");
 			printf("\n\n**************************************************");
